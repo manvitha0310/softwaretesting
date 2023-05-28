@@ -9,5 +9,6 @@ output:</br>
 
 ##Exp-3 Voting link-https://github.com/manvitha0310/softwaretesting/new/main <br>
 output:</br>
+![Screenshot (7)](https://github.com/manvitha0310/softwaretesting/assets/113499774/73af2c08-9f2c-46c2-a597-4611632a8dda) <br>
  
 
